@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name drop-pcb-proto-11-external-controller-rescue)(type Legacy)(uri "${KIPRJMOD}/drop pcb proto 11 external controller-rescue.lib")(options "")(descr ""))
+  (lib (name drop-pcb-proto-12-external-controller-rescue)(type Legacy)(uri "${KIPRJMOD}/drop pcb proto 12 external controller-rescue.lib")(options "")(descr ""))
+)

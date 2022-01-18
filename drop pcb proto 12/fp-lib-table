@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "drop pcb proto 10")(type KiCad)(uri "D:/Google Drive/LOPEND WERK/DROP of LIGHT/tech/pcb's/drop pcb proto 12")(options "")(descr ""))
+  (lib (name "drop pcb proto 12")(type KiCad)(uri "D:/Google Drive/LOPEND WERK/DROP of LIGHT/tech/pcb's/drop pcb proto 12")(options "")(descr ""))
+  (lib (name pcb's)(type KiCad)(uri "D:/Google Drive/LOPEND WERK/DROP of LIGHT/tech/pcb's")(options "")(descr ""))
+  (lib (name teensy_library)(type KiCad)(uri "D:/Google Drive/LOPEND WERK/DROP of LIGHT/tech/pcb's/teensy_library")(options "")(descr ""))
+  (lib (name teensy)(type KiCad)(uri "D:/Google Drive/LOPEND WERK/DROP of LIGHT/tech/pcb's/teensy.pretty")(options "")(descr ""))
+)
